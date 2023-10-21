@@ -4,7 +4,7 @@ Ceci est une implémentation simple du classique jeu "Snake", construit en utili
 
 ## Table des matières
 
-1. rérequis
+1. pré-requis
 2. Installation
 3. Utilisation
 4. Développement
